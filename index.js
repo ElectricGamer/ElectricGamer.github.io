@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Electricgamer.GitHub.io : ">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Electricgamer.GitHub.io</title>
-  </head>
-
-  <body>
-    <script>
       //Cookie Clicker
 //By: I'm A Ninja!
 
@@ -674,7 +660,3 @@ var draw = function() {
         codeOut = "done";
     }
 };
-    </script>
-    
-  </body>
-</html>
